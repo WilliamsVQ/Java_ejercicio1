@@ -8,5 +8,6 @@ public class Ejercicio1 {
         System.out.println("Double = "+c);
         System.out.println("Boolean = "+d);
         System.out.println("String = "+e);
+
     }
 }
